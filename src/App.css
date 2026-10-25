@@ -1,0 +1,33 @@
+.container {
+  max-width: 400px;
+  margin: 80px auto;
+  padding: 30px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+  border-radius: 12px;
+}
+
+h1 {
+  color: #2563eb;
+  line-height: 1;
+}
+
+input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px;
+  margin: 15px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 12px 24px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
